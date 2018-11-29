@@ -29,4 +29,9 @@ php artisan make:migration create_products_table --create=products
 # routes/web.php
 Route::resource('products','ProductController');
 
+# Step 5: Create Controller and Model
+php artisan make:controller ProductController --resource --model=Product
+
+
+
 
