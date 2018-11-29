@@ -21,6 +21,9 @@ php artisan make:migration create_products_table --create=products
      - $table->string('name');
      - $table->text('detail');
 ---
+# run migraciones
+- php artisan migrate
+
 # Step 4: Create Resource Route
 
 # routes/web.php
