@@ -21,3 +21,6 @@ php artisan make:migration create_products_table
 
   - $table->string('name');
   - $table->text('detail');
+
+- php artisan migrate
+
