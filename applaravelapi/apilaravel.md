@@ -24,3 +24,7 @@ php artisan make:migration create_products_table
 
 - php artisan migrate
 
+
+  protected $fillable = [
+        'name', 'detail'
+    ];
