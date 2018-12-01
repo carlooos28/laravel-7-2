@@ -1,3 +1,5 @@
 https://hdtuto.com/article/guzzle-http-client-get-and-post-request-example-in-laravel-5
 
 https://jsonplaceholder.typicode.com/users
+
+Route::get('/user', 'UserController@index');
