@@ -5,3 +5,5 @@ https://jsonplaceholder.typicode.com/users
 Route::get('/fac', '/API/HelicopterController@getGuzzleRequest');
 
 https://randomuser.me/api/?results=25
+
+http://docs.guzzlephp.org/en/stable/
