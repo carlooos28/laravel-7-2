@@ -3,3 +3,5 @@ https://hdtuto.com/article/guzzle-http-client-get-and-post-request-example-in-la
 https://jsonplaceholder.typicode.com/users
 
 Route::get('/fac', '/API/HelicopterController@getGuzzleRequest');
+
+https://randomuser.me/api/?results=25
