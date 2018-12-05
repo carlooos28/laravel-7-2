@@ -7,3 +7,20 @@ Route::get('/fac', '/API/HelicopterController@getGuzzleRequest');
 https://randomuser.me/api/?results=25
 
 http://docs.guzzlephp.org/en/stable/
+
+---
+
+Conexión multiples bases de datos:
+https://medium.com/teknomuslim/how-to-run-laravel-using-multiple-database-connections-d7e8dcb7ed2a
+https://fideloper.com/laravel-multiple-database-connections
+https://laravel.com/docs/5.7/queries
+
+--- 
+
+Conector Laravel Oracle 
+https://github.com/yajra/laravel-oci8
+
+https://fideloper.com/laravel-multiple-database-connections
+https://medium.com/teknomuslim/how-to-run-laravel-using-multiple-database-connections-d7e8dcb7ed2a
+
+--- 
